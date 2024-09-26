@@ -29,6 +29,7 @@
     "eslint-plugin-react": "^7.36.1",
     "eslint-plugin-react-hooks": "5.1.0-rc-fb9a90fa48-20240614",
     "eslint-plugin-react-refresh": "^0.4.9",
+    "fluid-tailwind": "^1.0.3",
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
     "prettier": "^3.3.3",
